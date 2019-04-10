@@ -189,7 +189,7 @@ Linux 的系统调用主要有以下这些：
   * 在任何时候，只能有一个进程在管程中执行，调用管程的任何其他进程都被阻塞，以等待管程可用。
 * 消息传递
 
-### 2.5.用户态和和心态
+### 2.5.用户态和和内核态
 
 ![image](https://clsaa-markdown-imgbed-1252032169.cos.ap-shanghai.myqcloud.com/very-java/2019-03-11-125106.png)
 
